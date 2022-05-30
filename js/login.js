@@ -7,7 +7,7 @@ function validate()
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
 
-    if (username == 'abc' && password == '1234')
+    if (username == 'hiring@cronj.com' && password == '123')
     {
         alert("login succesfull");
         window.location.href="../form1/form.html";
